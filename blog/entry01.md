@@ -18,9 +18,3 @@
 
 <h1> Summary</h1>
 <p> Overall, my next step is to continue researching how technology is used in art and drawing. I want to learn about different digital art programs and how they help artists create their work. I also want to explore how digital tools can help artists use their creativity and try different drawing techniques, I want to be able to try and experience all of them, especially now artists can have the opportunities to test out these new inventions. By looking at examples of digital artwork, I can better understand how artists combine their skills with technology. After researching, I can decide how to apply what I learned to my Freedom Project and find new ways to express my creativity through art. </p>
-
-
-
-[Next](entry02.md)
-
-[Home](../README.md)
