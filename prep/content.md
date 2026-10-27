@@ -18,7 +18,7 @@ Topic: **Arts**
   * Hardware: Windows, macOS, and Linux computers.
   * The cost: Free
     
-  ![Krita logo](images/Calligrakrita-base.svg)
+  ![Krita.jpg](<img width="460" height="215" alt="header-2" src="https://github.com/user-attachments/assets/6a4d91c3-a717-45ea-a582-ca2048fc29be" />)
  
 
 * Second app I looked into: <a href=https://www.escapemotions.com/products/rebelle/about> Rebelle real media paint software</a>
