@@ -17,6 +17,9 @@ Topic: **Arts**
   * It also includes tools for 2D animation and comic creation.
   * Hardware: Windows, macOS, and Linux computers.
   * The cost: Free
+    
+  ![Krita logo](images/Calligrakrita-base.svg)
+ 
 
 * Second app I looked into: <a href=https://www.escapemotions.com/products/rebelle/about> Rebelle real media paint software</a>
   * Rebelle is a digital painting program designed to simulate traditional art materials.
