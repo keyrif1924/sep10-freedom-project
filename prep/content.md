@@ -39,16 +39,10 @@ Topic: **Arts**
   * It focuses on organizing visual references rather than creating artwork itself.
   * Hardware: Windows, macOs, and Linux computers 
   * The cost: Pay-what-you-want-model. You can choose how much to pay.
-< a href= https://www.creativebloq.com/how-to/pureref> PureRef image </a>
 
 
   
-  * [image text](image URL)
-
-##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+ 
 
 ## Part B: possible future technology
 * Idea
