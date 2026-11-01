@@ -28,6 +28,7 @@ Topic: **Arts**
   * It's unique for the way its painting engine stimulates, the way paint behaves helping digital artwork resemble traditional watercolor and other painting media.
   * Hardware: Supported Windows and macOS computers.
   * The cost: Rebelle 8 costs $89.99, while Rebelle 8 pro costs $149.99. Students and teachers can qualify for a 40% educational discount.
+    <a href= https://www.escapemotions.com/products/rebelle/about> rebelleimage</a>
 
 *Third app I looked into: <a href=https://www.pureref.com> PurRef</a>
   * Pureref is a visual reference board used by artists.
@@ -36,11 +37,9 @@ Topic: **Arts**
   * It helps artists keep visual references nearby while creating art work.
   * It can be useful for planning illustrations before drawing.
   * It focuses on organizing visual references rather than creating artwork itself.
+  * Hardware: Windows, macOs, and Linux computers 
   * The cost: Pay-what-you-want-model. You can choose how much to pay.
-
-
- 
-
+< a href= https://www.creativebloq.com/how-to/pureref> PureRef image </a>
 
 
   
