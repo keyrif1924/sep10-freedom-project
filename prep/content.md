@@ -40,9 +40,23 @@ Topic: **Arts**
   * Hardware: Windows, macOs, and Linux computers 
   * The cost: Pay-what-you-want-model. You can choose how much to pay.
 
+##### Hardware/Devices
+-Google Research: "Art devices that artists use"
+-First Device: Xencelabs Quick Keys
+  - A small controller that gives artists quick access to keyboard shortcuts.
+  - It has customizable buttons, a dial, and a screen that displays shortcut labels.
+  - It's unique because Artists can undo, zoom, change brush sizes, and switch tools without constantly reaching for their keyboard. 
+  - Price: around $79.99
+  - Website: [XenceLabs]( https://www.xencelabs.com/us?srsltid=AYCX9vIJpRI7MtK4LRsPU3Kf_D3Rucv94AnSR2Y0LNeyTgvJUFGi2gS1)
 
-  
- 
+  - Second device: Veikk VK1060 pro drawing tablet 
+  - A screen less drawing tablet with a 10 by 6 inch drawing area.
+  - It has customizable shortcut buttons and two dials.
+  - It's unique because its two dials gives artists physical controls for adjusting settings while drawing.
+  - Price: Prices can go increase and decrease. 
+  - Website: [Veikk](https://veikk.com/es?srsltid=AYCX9vKQNTzB28tQCdXICU3QNi3ehh8i_chNnj8gqOJxNrpUBuAx-rQ2)
+
+
 
 ## Part B: possible future technology
 * Idea
