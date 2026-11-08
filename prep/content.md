@@ -61,8 +61,13 @@ Topic: **Arts**
   - It reduces friction between the hand and drawing surface.
   - It's unique since it helps the artist's hand glide across the tablet and reduces smudges.
   - Website: [XPPen](https://www.xp-pen.com)
-    
-#### Fourth hardware: 
+
+  #### Fourth hardware: TourBox Lite
+  - A small controller with buttons and dials for creative software.
+  - It can help artists control brush size, zoom, and other shortcuts.
+  - It's unique because its physical controls let artists adjust settings without using the mouse for everything.
+  - Price: as of right now its $85.49
+  - Website: [TourBox](https://www.tourboxtech.com/en/?srsltid=AYCX9vJcQdYQtIqIpMn15iokYWMaALoy1EX8Ks6zNanAH50AccqKs1Vl)
 
 
 ## Part B: possible future technology
