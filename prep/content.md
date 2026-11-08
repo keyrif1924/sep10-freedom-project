@@ -7,7 +7,7 @@ Topic: **Arts**
 
 ## Part A: existing technology
 
-##### Software
+## Software
 * 1st google research: "Art apps that artists can use"
   * 1st website looked into: <a href=https://krita.org/es/> Krita digital painting </a>
   * Krita is a free, open source digital painting and illustration program.
