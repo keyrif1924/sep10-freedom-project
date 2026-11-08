@@ -41,34 +41,41 @@ Topic: **Arts**
   * The cost: Pay-what-you-want-model. You can choose how much to pay.
 
 ## Hardware/Devices
--Google Research: "Art devices that artists use"
-#### First hardware: Xencelabs Quick Keys
+* Google Research: "Art devices that artists use"
+* First hardware: Xencelabs Quick Keys
   - A small controller that gives artists quick access to keyboard shortcuts.
   - It has customizable buttons, a dial, and a screen that displays shortcut labels.
   - It's unique because Artists can undo, zoom, change brush sizes, and switch tools without constantly reaching for their keyboard. 
   - Price: around $79.99
   - Website: [XenceLabs]( https://www.xencelabs.com/us?srsltid=AYCX9vIJpRI7MtK4LRsPU3Kf_D3Rucv94AnSR2Y0LNeyTgvJUFGi2gS1)
+ 
+   [image](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.xencelabs.com%2Fus%2Fstore%2Faccessories%2Fxencelabs-quick-keys-remote%3Fsrsltid%3DAYCX9vIUuGycdqCuQuLBsd1ZRWSKkEj9YBbXXcf6EDpLAxHMqbYNTC7B&ved=0CBcQjRxqGAoTCKD_qp-L-ZcDFQAAAAAdAAAAABCrAQ&opi=89978449)
 
-#### Second hardware: Veikk VK1060 pro drawing tablet 
+* Second hardware: Veikk VK1060 pro drawing tablet
   - A screen less drawing tablet with a 10 by 6 inch drawing area.
   - It has customizable shortcut buttons and two dials.
   - It's unique because its two dials gives artists physical controls for adjusting settings while drawing.
   - Price: Prices can go increase and decrease. As of right now it is $52.99
   - Website: [Veikk](https://veikk.com/es?srsltid=AYCX9vKQNTzB28tQCdXICU3QNi3ehh8i_chNnj8gqOJxNrpUBuAx-rQ2)
+ 
+  [image](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fveikk.com%2Fen-mo%2Fproducts%2Fcreator-vk1060pro%3Fsrsltid%3DAYCX9vKVjHInxpwdO-Tx8BlOKyRSyezPw4750hbzo3g9lGXvDr_emh1d&ved=0CBcQjRxqFwoTCMDw8bWQ-ZcDFQAAAAAdAAAAABA3&opi=89978449)
 
- #### Third hardware: XPPen Artist Anti-Fouling Drawing Glove
+* Third hardware: XPPen Artist Anti-Fouling Drawing Glove
   - A special glove worn on the hand while drawing on a tablet.
   - It reduces friction between the hand and drawing surface.
   - It's unique since it helps the artist's hand glide across the tablet and reduces smudges.
   - Website: [XPPen](https://www.xp-pen.com)
+ 
+  [image](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F204634583862&ved=0CBcQjRxqFwoTCKjG-aeR-ZcDFQAAAAAdAAAAABA3&opi=89978449)
 
-  #### Fourth hardware: TourBox Lite
+* Fourth hardware: TourBox Lite
   - A small controller with buttons and dials for creative software.
   - It can help artists control brush size, zoom, and other shortcuts.
   - It's unique because its physical controls let artists adjust settings without using the mouse for everything.
   - Price: as of right now its $85.49
   - Website: [TourBox](https://www.tourboxtech.com/en/?srsltid=AYCX9vJcQdYQtIqIpMn15iokYWMaALoy1EX8Ks6zNanAH50AccqKs1Vl)
 
+ [image](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.tourboxtech.com%2Fen%2Ftourbox-lite%2F%3Fsrsltid%3DAYCX9vIHr9GLbmUZGMNttTdDqC-cdcHEZHm_2qUByqfhKCl6z5TsZxaw&ved=0CBcQjRxqFwoTCPC5xO-R-ZcDFQAAAAAdAAAAABA3&opi=89978449)
 
 ## Part B: possible future technology
 * Idea
