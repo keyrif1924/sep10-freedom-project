@@ -2,8 +2,7 @@
 Topic: **Arts**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+Art is known for just having paint, color, any types of shapes on canvases and pieces of paper, things that us humans create, but it's not just that, art goes beyond our imagination. As we grow older we learn the meaning behind the darkest stuff, everything has its own meaning, and we can be creative with it. Art has its special meaning to it with what we imagine, even our emotions and care are put onto these hard working pieces since we are determined to create whatever, we start of as begineers and soon enough art is something we don't want to let go of since it can be a piece to us that shapes who we are. 
 
 ## Part A: existing technology
 
