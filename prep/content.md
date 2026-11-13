@@ -2,7 +2,25 @@
 Topic: **Arts**
 
 ## Overview/Introduction/Context
-Art is known for just having paint, color, any types of shapes on canvases and pieces of paper, things that us humans create, but it's not just that, art goes beyond our imagination. As we grow older we learn the meaning behind the darkest stuff, everything has its own meaning, and we can be creative with it. Art has its special meaning to it with what we imagine, even our emotions and care are put onto these hard working pieces since we are determined to create whatever, we start of as begineers and soon enough art is something we don't want to let go of since it can be a piece to us that shapes who we are. 
+Art is known for just having paint, color, any types of shapes on canvases and pieces of paper, things that us humans create, but it's not just that, art goes beyond our imagination. As we grow older we learn the meaning behind the darkest stuff, everything has its own meaning, and we can be creative with it. Art has its special meaning to it with what we imagine, even our emotions and care are put onto these hard working pieces since we are determined to create whatever, we start of as beginners and soon enough art is something we don't want to let go of since it can be a piece to us that shapes who we are. Out in this world there are many art inventions that are made for whoever, the future continues to grow with the strength of creativity and the beauty of art.
+
+## Categorizing- By their purpose.
+
+### Artistic preparation 
+- PureRef
+- XPPen drawing glove
+
+### Creative Assistance
+- Xencelabs Quick Keys
+- Tourbox lite
+- Veikk VK1060 pro
+
+### Digital Creation
+- Krita
+- Rebelle
+
+
+
 
 ## Part A: existing technology
 
