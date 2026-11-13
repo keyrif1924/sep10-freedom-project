@@ -9,15 +9,30 @@ Art is known for just having paint, color, any types of shapes on canvases and p
 ### Artistic preparation 
 - PureRef
 - XPPen drawing glove
+- These technologies help artists prepare for and get comfortable with the artistic process.
+- PureRef allows artists to collect, arrange, and organize reference images to help plan their artwork before creating it.
+- The XPPen drawing glove reduces friction between the artist's hand and the drawing surface, helping make digital drawing more comfortable.
+- These inventions focus on supporting artists before and during the creation process rather than directly immdeitaely going straight to work with struggles at they create their art pieces.
+- 
 
 ### Creative Assistance
 - Xencelabs Quick Keys
 - Tourbox lite
 - Veikk VK1060 pro
+- Drawing controllers and input devices
+- These technologies provide additional controls and features that help artists interact with their digital art programs.
+- Xencelabs Quick Keys and TourBox Lite provide customizable buttons and dials that allow artists to access shortcuts and adjust settings more easily.
+- The Veikk drawing tablet provides a surface and digital pen for artists to control their digital drawings.
+- These inventions help improve the drawing process by making digital tools easier to navigate and use. 
 
 ### Digital Creation
 - Krita
 - Rebelle
+- Digital painting and illustration software.
+- These programs provide artists with digital tools to create, edit, and experiment with different types of artworks.
+- Krita offers customizable brushes, animation tools, and illustration features, while Rebelle stimulates traditional painting materials such as watercolor
+- These programs allow artists to explore different artistic styles and techniques without always needing physical art supplies.
+- They focus on directly on producing digital artwork and expanding the creative possibilities available to artists. 
 
 
 
