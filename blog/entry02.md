@@ -1,7 +1,9 @@
 # Entry 2
-##### X/X/XX
+##### 11/16/26
 
-Text
+<h1> Context</h1>
+with the info I have gathered, I was able to find many ways that art can be used in, it also expanded the way I visualized art. 
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
