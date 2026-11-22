@@ -13,7 +13,6 @@ Art is known for just having paint, color, any types of shapes on canvases and p
 - PureRef allows artists to collect, arrange, and organize reference images to help plan their artwork before creating it.
 - The XPPen drawing glove reduces friction between the artist's hand and the drawing surface, helping make digital drawing more comfortable.
 - These inventions focus on supporting artists before and during the creation process rather than directly immdeitaely going straight to work with struggles at they create their art pieces.
-- 
 
 ### Creative Assistance
 - Xencelabs Quick Keys
