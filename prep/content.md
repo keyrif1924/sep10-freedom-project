@@ -109,5 +109,8 @@ Art is known for just having paint, color, any types of shapes on canvases and p
  [image](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.tourboxtech.com%2Fen%2Ftourbox-lite%2F%3Fsrsltid%3DAYCX9vIHr9GLbmUZGMNttTdDqC-cdcHEZHm_2qUByqfhKCl6z5TsZxaw&ved=0CBcQjRxqFwoTCPC5xO-R-ZcDFQAAAAAdAAAAABA3&opi=89978449)
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Idea 1: Artistic scanner 
+ *  Take a picture of your piece of art, this can help improve the mistakes you want to fix in your art piece.
+ *  Unlike other art apps that just make you go step by step, and even make you pay, this app can highlight the things you need to improve on by showing the ways you should work on with your pencil and how you do it.
+ *  It can even give you ideas if you're ever stuck on what else to add onto your drawings.
+ *  In case you also want to find the right colors to add, the Artistic scanner will give you many colors that you can think of and you can test that out my editing the picture you took and adding those details with color background or fill in the colors or specific things you want to fill in. 
